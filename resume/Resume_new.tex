@@ -1,0 +1,217 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+\vspace*{-40pt}
+
+
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Hetav Pandya}}\\
+	Toronto, CA $\cdot$ pandyahetav1@gmail.com $\cdot$ (416) 826-4057 $\cdot$ https://pandyah5.github.io/\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\textbf{University of Toronto}\hfill Toronto, CA\\
+Bachelor of Applied Science and Engineering, Computer Engineering \textit{GPA: 3.96} \hfill Sep 2019 - May 2023\\
+\vspace{2mm}
+
+%==== Experience ====%
+\header{Work Experience}
+\vspace{1mm}
+
+\textbf{Bell Canada - [Big Data and AI Team]} \hfill Toronto, CA\\
+\textit{Data Scientist Intern} \hfill May 2021 - Aug 2021\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Data querying using Apache Spark, Hadoop, and Impala. Data exploration using Python.
+	\item Converted Impala queries to Trino reducing the time taken by 60\% on average.
+	\item Performed feature importance ranking using boosted decision trees and statistical measures.
+	\item Developed an automated system to detect potential flaws in new version releases, reducing the time needed to detect issues from 3 weeks to 15 minutes. Results were shared using MicroStrategy BI.
+	\item Used Kubeflow to automate ML workflow for potential flaw detection in version releases.
+\end{itemize}
+\textbf{General Motors Canada (GM)} \hfill Toronto, CA\\
+\textit{Machine Learning Model Developer} \hfill May 2021 - July 2021\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Worked on automating data collection pipeline with data pre-processing and image augmentation.
+	\item Deployed an object detection model using transfer learning on ‘my\_ssd\_mobnet’.
+	\item The custom model was optimized for real time detection with a mean Average Precision (mAP) score of 0.7.
+\end{itemize}
+\textbf{Faculty of Information, University of Toronto} \hfill Toronto, CA\\
+\textit{Data Analyst Research Intern} \hfill Jan 2021 - May 2021\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+    \item Analyzed the effects of machine learning on the future path of job creation and disruption.
+	\item Collected raw data from research conferences, package databases and via webscrapping.
+    \item Pre-processed data and generated visualizations for further analysis.
+	\item Discovered cross-linking relationships between features that help predict the shifting landscape for organizations.
+\end{itemize}
+\textbf{Engineering Outreach, University of Toronto} \hfill Toronto, CA\\
+\textit{Software Content Specialist} \hfill Feb 2020 - May 2020\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Designed the “Computer Imaging using Python” and the “Data Analytics using MATLAB” courses.
+	\item The courses were made for the DEEP program, which is an educational program offered by UofT.
+\end{itemize}
+
+\header{Skills}
+\begin{tabular}{ l l }
+	Programming Languages: & Python, C++, C                                                   \\
+	Machine Learning:      & TensorFlow, OpenCV, Kubeflow                                     \\
+	Data Analysis:         & Hive, Impala, Trino/Presto SQL, MATLAB, MicroStrategy BI, Hadoop \\
+	Project Management:    & JIRA, Confluence, Agile - SCRUM, Git, GitHub                     \\
+	Web Design:            & HTML5, CSS3, Javascript                                          \\
+\end{tabular}
+\vspace{2mm}
+
+\header{Extra Curriculars}
+\vspace{1mm}
+
+\textbf{UofT Machine Intelligence Student Team} \hfill Toronto, CA\\
+\textit{Co-President} \hfill July 2021 - Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 0.5pt
+	\item Managing a team of 180+ active members spread across nine departments using JIRA software.
+	\item Driving collaboration with different clubs and organizations like the Engineering Hatchery, UCL Artificial Intelligence Society, AI@MIT, Harvard Open Data Project and many more.
+	\item Overseeing event planning and proper execution of inter-departmental and outreach events.
+    \item Collaborating with industry partners and professors for hosting events and workshops.
+\end{itemize}
+
+\textbf{UofT Machine Intelligence Student Team} \hfill Toronto, CA\\
+\textit{VP Academics} \hfill Jan 2021 - July 2021\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 0.5pt
+	\item Planned the execution for academics events and workshops.
+	\item Organized regular project director meetings to provide technical \& logistic guidance.
+	\item Previously held the position of Assistant Vice President and was promoted in January 2021.
+\end{itemize}
+
+\header{Projects}
+{\textbf{E-Motion}} {\sl Python, OpenCV, Selenium} \hfill https://tinyurl.com/cyhtt8jr\\
+A computer vision suite that enables users to play games, read e-books and listen to music using hand gestures. It secured the second place at UofT Hacks VIII\\
+\vspace*{2mm}
+{\textbf{COVID-19 InfoBot}} {\sl Python, Selenium, Speech Recognition} \hfill https://tinyurl.com/ub8uyavj\\
+A voice assistant that provides users with credible and updated information regarding the COVID-19. It won the Wolfram award at the Hack\_The\_Virus Hackathon.\\
+\vspace*{2mm}
+% {\textbf{Machine Learning Data Bot}} {\sl Python, Selenium} \hfill https://tinyurl.com/rc46kkd2\\
+% The ML databot auto generates image data sets through web scrapping, significantly reducing the cost and time required in manual data generation.\\
+% \vspace*{2mm}
+{\textbf{Hands2Ears}} {\sl Python, OpenCV, Speech Recognition} \hfill https://tinyurl.com/65ftaddu\\
+A neural network model that helps converting sign language (ASL) to speech in real time. It was chosen as the Bloomberg Challenge winner and second best project in NSBE Hacks 2020.\\
+\vspace*{2mm}
+{\textbf{Drowsy Driver Detector}} {\sl Python, OpenCV, Face Detection} \hfill https://tinyurl.com/rdjd57hh\\
+The program uses an eye detection to alert the driver if they are drowsy thereby preventing fatal crashes.\\
+\vspace*{2mm}
+{\textbf{Personal Website}} {\sl HTML5, CSS3, Javascript} \hfill https://pandyah5.github.io/\\
+A more detailed and informal description of who I am. Built using raw HTML, CSS and PHP from scratch.\\
+\vspace*{2mm}
+{\textbf{Magnum Opus}} {\sl Python, Neural Style Transfer, OpenCV} \hfill https://tinyurl.com/8j9hs2hx\\
+My personal journey of finding “art in mathematics” and “mathematics in art”.\\
+\vspace*{2mm}
+% {\textbf{My Other Projects}}\hfill https://tinyurl.com/wd2c893h\\
+% You can explore my other projects on Computer Vision, Digital Art, Data Analysis, Web Automation and Machine Learning.\\
+% \vspace*{2mm}
+
+\header{Awards}
+\textbf{Microsoft Discover AI Challenge on AI Ethics - First Prize} \hfill Microsoft\\
+Recognized for the AI Ethics Pipeline built during the Hackathon. \hfill June 2021\\
+\vspace*{2mm}
+\textbf{University of Toronto Dean’s Honor Award} \hfill University of Toronto\\
+Awarded for my consistent academic standing above 3.5 GPA in all semesters. \hfill May 2021\\
+\vspace*{2mm}
+\textbf{UofT Hacks VIII - Second Prize} \hfill UofT Hacks\\
+Recognized for my project E-Motion and my work on computer vision enabled remote monitoring and
+control. \hfill Feb 2021\\
+\vspace*{2mm}
+\textbf{Edward S. Rogers Dept. of Computer Eng. Top Student Award} \hfill University of Toronto\\
+Awarded for being amongst the top three students in the Department of Electrical and Computer
+Engineering. \hfill Sept 2020\\
+\vspace*{2mm}
+\textbf{Wallberg Undergraduate Scholarship Award} \hfill University of Toronto\\
+Awarded for being amongst the top four students in the Faculty of Engineering, based on academic
+performance. \hfill Sept 2020\\
+\vspace*{2mm}
+\textbf{Wolfram Award} \hfill Hack The Virus Hackathon\\
+Recognized for my project COVID-InfoBot based on speech controlled information system. \hfill Aug 2020\\
+\vspace*{2mm}
+\textbf{NSBE Hacks 2020 - Second Prize} \hfill NSBE UofT\\
+Recognized for my project Hands2Ears, real time ASL to speech conversion. \hfill Feb 2020\\
+\vspace*{2mm}
+\textbf{Bloomberg First Time Hack Winner} \hfill Bloomberg\\
+Recognized for my project Hands2Ears - \textquotedbl{}First Time Hack\textquotedbl{} sub-category at NSBE Hacks 2020. \hfill Feb 2020\\
+\vspace*{2mm}
+\textbf{State Topper} \hfill Central Board of Secondary Education\\
+Awarded for receiving the highest grade in the province/state of Gujarat for the Annual Grade-12
+Examination in India. \hfill March 2019\\
+\vspace*{2mm}
+\textbf{University of Toronto International Scholar’s Award Scholarship} \hfill University of Toronto\\
+This prestigious award is provided to students who demonstrate excellence in academics and a strong desire to learn by participating in a wide range of extracurriculars. \hfill May 2019\\
+\
+\end{document}
