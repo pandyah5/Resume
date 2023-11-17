@@ -1,6 +1,6 @@
-PWD c:\Users\Hetav Pandya\Downloads\to_del\Resume\resume
+PWD c:\Users\Hetav Pandya\Downloads\Resume\resume
 INPUT C:\Users\Hetav Pandya\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Hetav Pandya\Downloads\to_del\Resume\resume\resume.tex
+INPUT c:\Users\Hetav Pandya\Downloads\Resume\resume\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\Hetav Pandya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Hetav Pandya\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
