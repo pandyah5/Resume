@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12.10) (preloaded format=xelatex 2023.7.11)  20 AUG 2023 01:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12.10) (preloaded format=xelatex 2023.7.11)  16 JAN 2024 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/TD/cover_letter.tex"
-(c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/TD/cover_letter.tex
+**"c:/Users/Hetav Pandya/Downloads/to_del/Resume/cover_letter/TD/cover_letter.tex"
+(c:/Users/Hetav Pandya/Downloads/to_del/Resume/cover_letter/TD/cover_letter.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (friggeri-letter.cls
 Document Class: friggeri-letter 2015/10/31 Cover letter for friggeri resume
@@ -438,11 +438,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--64
 ] (cover_letter.aux) ) 
 Here is how much of TeX's memory you used:
  19616 strings out of 411044
- 417944 string characters out of 2823965
- 861918 words of memory out of 3000000
+ 417965 string characters out of 2823965
+ 861919 words of memory out of 3000000
  39974 multiletter control sequences out of 15000+600000
  404538 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,6n,118p,897b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 115i,6n,118p,904b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cover_letter.xdv (1 page, 19160 bytes).
+Output written on cover_letter.xdv (1 page, 19264 bytes).

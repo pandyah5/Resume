@@ -1,6 +1,6 @@
-PWD c:\Users\Hetav Pandya\Downloads\Resume\cover_letter\TD
+PWD c:\Users\Hetav Pandya\Downloads\to_del\Resume\cover_letter\TD
 INPUT C:\Users\Hetav Pandya\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Users\Hetav Pandya\Downloads\Resume\cover_letter\TD\cover_letter.tex
+INPUT c:\Users\Hetav Pandya\Downloads\to_del\Resume\cover_letter\TD\cover_letter.tex
 OUTPUT cover_letter.log
 INPUT .\friggeri-letter.cls
 INPUT .\friggeri-letter.cls
