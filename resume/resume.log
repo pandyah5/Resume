@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.22)  31 JAN 2024 22:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.22)  19 MAY 2024 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Hetav Pandya/Downloads/to_del/Resume/resume/resume.tex"
-(c:/Users/Hetav Pandya/Downloads/to_del/Resume/resume/resume.tex
+**"c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex"
+(c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (C:\Users\Hetav Pandya\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -254,7 +254,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
  (C:\Users\Hetav Pandya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (8.84189pt too wide) in paragraph at lines 95--103
+Overfull \hbox (8.84189pt too wide) in paragraph at lines 94--102
 [][] 
  []
 
@@ -266,14 +266,14 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8807 strings out of 478659
- 138060 string characters out of 2842566
+ 137997 string characters out of 2842566
  443639 words of memory out of 3000000
  26818 multiletter control sequences out of 15000+600000
  412080 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,394b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,387b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hetav Pandya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2488.pk><C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 120463 bytes).
+Output written on resume.pdf (2 pages, 120365 bytes).
 PDF statistics:
  357 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
