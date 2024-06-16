@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1689135666 "cover_letter.xdv" "cover_letter.pdf" "cover_letter" 1689135666
-  "cover_letter.xdv" 1689135665 22340 4e567555d4d4fc8c25831648f8bfb576 "xelatex"
+["xdvipdfmx"] 1717172982 "cover_letter.xdv" "cover_letter.pdf" "cover_letter" 1717172983
+  "cover_letter.xdv" 1717172982 22396 2430f5a1d65a11b1ac76fd4c758794b3 "xelatex"
   (generated)
   "cover_letter.pdf"
-["xelatex"] 1689135662 "c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/Stripe/cover_letter.tex" "cover_letter.xdv" "cover_letter" 1689135666
+["xelatex"] 1717172979 "c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/Stripe/cover_letter.tex" "cover_letter.xdv" "cover_letter" 1717172983
   "C:/Users/Hetav Pandya/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1689056568 23195556 8c5de562819438e87bff8e9a58fa6b16 ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1640867013 147419 612046eb31f6ee1a29c1e163d25a9bdd ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1640867013 5233 a89961f969f72563cb59411e9dc4ae8e ""
@@ -103,10 +103,10 @@
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/unicode-math/unicode-math-xetex.sty" 1580430746 132064 7222bed5bbafecb5b7690ac9561b42d1 ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/unicode-math/unicode-math.sty" 1580430746 1474 aba4cc64ac109084e74e3e749fbcd54e ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/Stripe/cover_letter.tex" 1689135621 4734 54fa1de29aa1cdc6b1088fe7739ef64d ""
-  "cover_letter.aux" 1689135665 155 4d5e002acfc84851ce1e497174fc03b8 "xelatex"
-  "cover_letter.tex" 1689135621 4734 54fa1de29aa1cdc6b1088fe7739ef64d ""
-  "friggeri-letter.cls" 1689056175 3668 1c022f62814e051e0dd02cc05baf9d20 ""
+  "c:/Users/Hetav Pandya/Downloads/Resume/cover_letter/Stripe/cover_letter.tex" 1717172915 4741 82a252c15de5027dade299a8884058a5 ""
+  "cover_letter.aux" 1717172982 155 4d5e002acfc84851ce1e497174fc03b8 "xelatex"
+  "cover_letter.tex" 1717172915 4741 82a252c15de5027dade299a8884058a5 ""
+  "friggeri-letter.cls" 1711230690 3668 1c022f62814e051e0dd02cc05baf9d20 ""
   (generated)
   "cover_letter.aux"
   "cover_letter.log"
