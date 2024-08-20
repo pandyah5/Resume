@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1719855663 "c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex" "resume.pdf" "resume" 1719855665
+["pdflatex"] 1724130681 "c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex" "resume.pdf" "resume" 1724130684
   "C:/Users/Hetav Pandya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1689056580 338025 95d5fafcc2db44066982364e54b9358c ""
   "C:/Users/Hetav Pandya/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1655433129 25420 12ce9e2ee042305c51278102f620c616 ""
   "C:/Users/Hetav Pandya/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk" 1655433130 25100 6824977ffa3a720ac40ca586cc475465 ""
@@ -88,10 +88,10 @@
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575574882 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Hetav Pandya/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex" 1719855662 10089 7fda67511d0c25275f068f5660d02760 ""
-  "resume.aux" 1719855664 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "resume.out" 1719855664 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1719855662 10089 7fda67511d0c25275f068f5660d02760 ""
+  "c:/Users/Hetav Pandya/Downloads/Resume/resume/resume.tex" 1724130679 10248 49818e3d7a84ab87c06c212c10c3b1f5 ""
+  "resume.aux" 1724130684 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "resume.out" 1724130683 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1724130679 10248 49818e3d7a84ab87c06c212c10c3b1f5 ""
   (generated)
   "resume.aux"
   "resume.log"
